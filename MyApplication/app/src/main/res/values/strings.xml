@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">VACUUM Controller</string>
+    <string name="vacuum_controller">VACUUM Controller Pro</string>
+    <string name="connected">Connesso</string>
+    <string name="disconnected">Disconnesso</string>
+    <string name="search_giga_chat">Cerca GIGA-Chat</string>
+    <string name="connect">Connetti</string>
+    <string name="machine_status">Stato Macchina</string>
+    <string name="on">Accesa</string>
+    <string name="off">Spenta</string>
+    <string name="level">Livello</string>
+    <string name="power">Potenza</string>
+    <string name="sensor">Sensore</string>
+    <string name="controls">Controlli</string>
+    <string name="turn_on">Accendi</string>
+    <string name="turn_off">Spegni</string>
+    <string name="decrease">Diminuisci</string>
+    <string name="increase">Aumenta</string>
+    <string name="log_messages">Log Messaggi</string>
+    <string name="stop">Stop</string>
+    <string name="waiting_connection">In attesa di connessione...</string>
+    <string name="notifications_stopped">Notifiche interrotte</string>
+    <string name="bluetooth_not_enabled">Bluetooth non abilitato</string>
+    <string name="missing_permissions">Permessi Bluetooth mancanti</string>
+    <string name="scanner_not_available">Scanner Bluetooth non disponibile</string>
+    <string name="scan_failed">Scan fallito</string>
+    <string name="connection_error">Errore nella connessione</string>
+    <string name="characteristics_not_found">Caratteristiche non trovate</string>
+    <string name="service_not_found">Servizio non trovato</string>
+    <string name="services_discovery_error">Errore scoperta servizi</string>
+    <string name="notification_error">Errore notifiche</string>
+    <string name="command_send_error">Errore invio comando</string>
+    <string name="rx_char_not_available">Caratteristica RX non disponibile</string>
+    <string name="power_watts">%d W</string>
+    <string name="sensor_value">%04d</string>
+</resources>
